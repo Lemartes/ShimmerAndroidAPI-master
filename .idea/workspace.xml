@@ -2,8 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f837fea-b983-41d1-bcad-8dcd557ae400" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/java/com/kamil/shimmercontrol/DeviceListAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/res/layout/device_adapter_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/.idea/gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/.idea/runConfigurations.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/libs/AndroidBluetoothLibrary.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/libs/ShimmerBiophysicalProcessingLibrary_Rev_0_11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/libs/androidplot-core-0.5.0-release.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/lint.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/Shimmer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/Shimmer4Android.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/ConnectedShimmersListFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/DeviceConfigFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/DeviceConfigListAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/DeviceSensorConfigFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/EnableSensorsDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/PlotFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/SensorsEnabledFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/ShimmerBluetoothDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/ShimmerDialogConfigurations.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/SignalsToPlotFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/supportfragments/ConnectedShimmersListFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/supportfragments/DeviceConfigFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/supportfragments/DeviceConfigListAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/supportfragments/PlotFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/supportfragments/SensorsEnabledFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/guiUtilities/supportfragments/SignalsToPlotFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/manager/ShimmerBluetoothManagerAndroid.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/android/shimmerService/ShimmerService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/androidradiodriver/ShimmerRadioInitializerAndroid.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/androidradiodriver/ShimmerSerialPortAndroid.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/exception/DeviceNotPairedException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/tools/Logging.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/com/shimmerresearch/tools/PlotManagerAndroid.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/pl/flex_it/androidplot/MultitouchPlot.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/java/pl/flex_it/androidplot/XYSeriesShimmer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/drawable/button_gray_pressed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/drawable/button_grey.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/drawable/selector_grey.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/layouts/fragments/layout/fragment_device_config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/layouts/fragments/layout/fragment_plot.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/layouts/fragments/layout/fragment_sensors_enabled_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/layouts/fragments/layout/list_group.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/layouts/fragments/layout/list_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/layouts/fragments/layout/list_item_textfield.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/layouts/fragments/layout/simple_list_item_multiple_choice_force_black_text.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/layouts/general/layout/device_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/layouts/general/layout/device_name.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/layouts/general/layout/dialog_sensor_view.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/layouts/general/layout/layout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/values-v11/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/values-v14/color.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/values-v14/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/values/styles.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/java/com/kamil/shimmercontrol/MainActivity.java" afterPath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/java/com/kamil/shimmercontrol/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/res/layout/activity_main.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,13 +78,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/java/com/kamil/shimmercontrol/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1767">
-              <caret line="136" column="8" lean-forward="false" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="740">
+              <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,6 +105,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/java/com/kamil/shimmercontrol/MainActivity.java" />
+        <option value="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -64,6 +132,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -91,141 +160,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ShimmerAndroidAPI-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ShimmerAndroidAPI-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ShimmerAndroidInstrumentDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ShimmerAndroidAPI-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ShimmerAndroidAPI-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ShimmerAndroidInstrumentDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ShimmerAndroidAPI-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ShimmerAndroidAPI-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ShimmerAndroidInstrumentDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ShimmerAndroidAPI-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ShimmerAndroidAPI-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ShimmerAndroidInstrumentDriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kamil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shimmercontrol" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ShimmerControl" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\Semestr 6\ZPO2Shimmery\ShimmerAndroidAPI-master" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\Semestr 6\ZPO2Shimmery\ShimmerControl" />
+      <recent name="C:\Users\Lenovo\Desktop\Semestr 6\ZPO2Shimmery\ShimmerAndroidAPI-master\ShimmerAndroidInstrumentDriver" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -307,7 +263,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1531673639403" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1531677486769" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -355,7 +311,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1531673639403" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1531677486769" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -525,7 +481,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -544,6 +500,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -561,6 +518,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/java/com/kamil/shimmercontrol/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="62" column="5" lean-forward="false" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/java/com/kamil/shimmercontrol/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/ShimmerAndroidAPI-master.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -568,7 +553,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/java/com/kamil/shimmercontrol/DeviceListAdapter.java">
+    <entry file="file://$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/java/com/kamil/shimmercontrol/DeviceListAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ShimmerControl/ShimmerAndroidInstrumentDriver/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -578,11 +614,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ShimmerAndroidInstrumentDriver/App/app/src/main/java/com/kamil/shimmercontrol/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1767">
-          <caret line="136" column="8" lean-forward="false" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="740">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ShimmerAndroidAPI-master</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

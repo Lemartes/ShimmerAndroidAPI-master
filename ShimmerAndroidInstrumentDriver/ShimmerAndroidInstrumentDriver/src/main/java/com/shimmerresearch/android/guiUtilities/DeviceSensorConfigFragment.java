@@ -31,11 +31,17 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Class to display a list of sensor configuration options for a Shimmer device.
+ * This has the same functionality as the {@link DeviceConfigFragment}, with the difference being that this Class extends the Abstract Dialog from the Shimmer Java API
+ * Only compatible with Shimmer3 and newer devices.
+ */
 public class DeviceSensorConfigFragment extends Fragment {
 
     DeviceConfigListAdapter expandListAdapter;
     ExpandableListView expandListView;
     int buttonBackgroundResourceId = -1;
+    SensorConfigDialog scd;
 
     public DeviceSensorConfigFragment() {
         // Required empty public constructor
@@ -45,7 +51,6 @@ public class DeviceSensorConfigFragment extends Fragment {
         DeviceSensorConfigFragment fragment = new DeviceSensorConfigFragment();
         return fragment;
     }
-
 
     /**
      * This method allows for the setting of a custom Drawable background resource for the buttons
@@ -58,16 +63,13 @@ public class DeviceSensorConfigFragment extends Fragment {
     public void buildDeviceConfigList(final ShimmerDevice shimmerDevice, final Context context,
                                       final ShimmerBluetoothManagerAndroid bluetoothManager,
                                       final int buttonResourceId) {
-
         buttonBackgroundResourceId = buttonResourceId;
         buildDeviceConfigList(shimmerDevice, context, bluetoothManager);
     }
 
     public void buildDeviceConfigList(final ShimmerDevice shimmerDevice, final Context context,
                                       final ShimmerBluetoothManagerAndroid bluetoothManager) {
-
-        SensorConfigDialog scd = new SensorConfigDialog(shimmerDevice,bluetoothManager,context);
-
+        scd = new SensorConfigDialog(shimmerDevice,bluetoothManager,context);
     }
 
     @Nullable
@@ -76,10 +78,15 @@ public class DeviceSensorConfigFragment extends Fragment {
         return inflater.inflate(R.layout.fragment_device_config, null);
     }
 
-    public class SensorConfigDialog extends AbstractSensorConfigDialog{
-        Context context;
-        SensorConfigDialog(ShimmerDevice shimmerDevice, ShimmerBluetoothManager bluetoothManager, Context context){
+    public ShimmerDevice getCloneDevice() {
+        return scd.getCloneDevice();
+    }
 
+    public class SensorConfigDialog extends AbstractSensorConfigDialog{
+
+        Context context;
+
+        SensorConfigDialog(ShimmerDevice shimmerDevice, ShimmerBluetoothManager bluetoothManager, Context context){
             super(shimmerDevice,bluetoothManager);
             this.context = context;
 
@@ -90,8 +97,12 @@ public class DeviceSensorConfigFragment extends Fragment {
 
             initialize();
             showFrame();
-
         }
+
+        public ShimmerDevice getCloneDevice() {
+            return cloneDevice;
+        }
+
         @Override
         public void createComboBox(int numOfOptions, String key, ConfigOptionDetailsSensor cods, Object[] checkBox) {
 
@@ -191,7 +202,6 @@ public class DeviceSensorConfigFragment extends Fragment {
                 buttonLayout.addView(writeConfigButton);
                 expandListView.addFooterView(buttonLayout);
             }
-
         }
     }
 
