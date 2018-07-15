@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShimmerControl</string>
+
+    <string name="connect">Connect</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="enable">Enable TTS</string>
+    <string name="ttsTxt">Change text</string>
+    <string name="info">Data</string>
+
+    <string name="x">X:</string>
+    <string name="y">Y:</string>
+    <string name="z">Z:</string>
+    <string name="ax">aX:</string>
+    <string name="ay">aY:</string>
+    <string name="az">aZ:</string>
+    <string name="enabled">Enabled:</string>
+    <string name="blocke">Blocked:</string>
+
+
+</resources>
